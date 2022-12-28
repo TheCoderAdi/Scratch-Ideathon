@@ -14,7 +14,11 @@ I know that a beginner don't do anything for free , because if it is free and we
 
 ### Personal Details
 Name : Aditya Swayamsiddha
+<br/>
 Regd No. : 2241019447
+<br/>
 Year: 2022
+<br/>
 Branch : CSE
+<br/>
 Section : 31
